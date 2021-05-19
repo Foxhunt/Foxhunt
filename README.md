@@ -1,4 +1,9 @@
-### Hi there 👋
+### 👋 Hi there I'm Marco.
+
+A Software Developer fascinated by highly interactive Systems.
+
+I love to develop tactile User interfaces build for a sense of presence and connection.
+
 
 <!--
 **Foxhunt/Foxhunt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
